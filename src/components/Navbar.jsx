@@ -12,7 +12,7 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto flex justify-between items-center p-4">
         {/* Logo */}
         <div className="flex justify-between w-full md:w-auto items-center">
-          <h1 className="text-3xl font-bold text-blue-600">Siyaram Library</h1>
+          <h1 className="text-3xl font-bold text-blue-600"> Library</h1>
 
           {/* Hamburger */}
           <button
