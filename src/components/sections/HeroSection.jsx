@@ -11,7 +11,7 @@ import library3 from "../../assets/library3.jpg";
 const slides = [
   {
     image: library1,
-    heading: "Welcome to Siyaram Library",
+    heading: "Welcome to Library",
     text: "Unlock Knowledge, Explore the World",
   },
   {
